@@ -22,6 +22,7 @@ RECONOCER|TRABAJAR|INTERSARME
 Reconocer de mejor manera cada etiqueta de Html| Trabajar ordenamente mi codigo| Interesarme mas por los trucos que puedo practicar con html 
 
 <h1>INDICE</h1>
+
 1. Home Page...............................1
 1. Etiquetas Html y css....................2
 1. Estructuras de Etiquetas................3
@@ -34,6 +35,7 @@ Reconocer de mejor manera cada etiqueta de Html| Trabajar ordenamente mi codigo|
 1. Conectar un Html y un css..............10
 1. Etiquetas Html.........................11
 1. Etiquetas de Css.......................12
+
 
 OBJETIVOS FUTUROS 
 Organizar de mejor manera mi tiempo y mis tareas para trabajr mas rapido
