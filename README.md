@@ -4,10 +4,9 @@ https://amy1909.github.io/Glosario-Responsive-/
 
 PORTAFOLIO 
 III Periodo 2021
-<H1>Anteportada </H1>
-* AmyLourdes Ortega De León
-* IV Bacillerato en Ciencias y Letras Con Orientacion En Diseño Grafico 
-
+<H1>Anteportada </H1> 
+1. AmyLourdes Ortega De León
+1. IV Bacillerato en Ciencias y Letras Con Orientacion En Diseño Grafico  
 OBJETIVOS 
 Reconocer de mejor manera cada etiqueta de Html 
 Trabajar ordenamente mi codigo 
