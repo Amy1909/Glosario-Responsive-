@@ -12,8 +12,10 @@ III Periodo 2021
 
 <h1>OBJETIVOS</H1>
 ----------------------
+
 RECONOCER|TRABAJAR|INTERSARME
--------------------------------
+          |         |
+------------------------------
 Reconocer de mejor manera cada etiqueta de Html| Trabajar ordenamente mi codigo| Interesarme mas por los trucos que puedo practicar con html 
 
 INDICE
