@@ -36,8 +36,10 @@ Reconocer de mejor manera cada etiqueta de Html| Trabajar ordenamente mi codigo|
 1. Etiquetas Html.........................11
 1. Etiquetas de Css.......................12
 
+<H1>DOCUMENTACIÓN</H1>
+
 
 OBJETIVOS FUTUROS 
-Organizar de mejor manera mi tiempo y mis tareas para trabajr mas rapido
+Organizar de mejor manera mi tiempo y mis tareas para trabajar más rápido
 Investigar sobre la mejor manera de manejar mi codigo
 Proposito es ser mas ordenada en mi codigo 
