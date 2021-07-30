@@ -1,9 +1,10 @@
 # Glosario-Responsive-
 https://amy1909.github.io/Glosario-Responsive-/
-![photo-1515879218367-8466d910aaa4 (1)](https://user-images.githubusercontent.com/79715201/127592535-16f0923a-632d-4fa9-a014-ce634993c772.jpg)
+![Porttafolio](https://user-images.githubusercontent.com/79715201/127664948-6e231866-5625-4c2c-87be-533796f8c736.png)
+
 PORTAFOLIO 
 III Periodo 2021
-
+<H1>Anteportada </H1>
 Amy Lourdes Ortega De León 
 IV bachillerato en Ciencias Letras Con Orientacion En Diseño Gráfico 
 Colegio Santa Catalina Laboure 
