@@ -2,7 +2,9 @@
 
 PORTAFOLIO 
 III Periodo 2021
-<H1>Anteportada </H1> 
+![Porttafolio](https://user-images.githubusercontent.com/79715201/127671387-bfe3d274-9688-44aa-8592-3b07fb8b0e1c.png)
+
+<H1>ANTEPORTADA🍪 </H1> 
 
 * AmyLourdes Ortega De León
 * IV Bacillerato en Ciencias y Letras Con Orientacion En Diseño Grafico 
@@ -11,15 +13,13 @@ III Periodo 2021
 * Diseño Computarizado 
 
 
-<h1>OBJETIVOS</H1>
-----------------------
+<h1>OBJETIVOS🍭</H1>
 
-RECONOCER|TRABAJAR|INTERSARME
-          |         |
-------------------------------
-Reconocer de mejor manera cada etiqueta de Html| Trabajar ordenamente mi codigo| Interesarme mas por los trucos que puedo practicar con html 
+RECONOCER | TRABAJAR | INTERSARME
+--------- | -------- | ---------- 
+Reconocer de mejor manera cada etiqueta de Html | Trabajar ordenamente mi codigo | Interesarme mas por los trucos que puedo practicar con html 
 
-<h1>INDICE</h1>
+<h1>INDICE🤩</h1>
 
 1. Home Page...............................1
 1. Etiquetas Html y css....................2
@@ -34,11 +34,13 @@ Reconocer de mejor manera cada etiqueta de Html| Trabajar ordenamente mi codigo|
 1. Etiquetas Html.........................11
 1. Etiquetas de Css.......................12
 
-<H1>DOCUMENTACIÓN</H1>
+<H1>DOCUMENTACIÓN👾 </H1>
 https://amy1909.github.io/Glosario-Responsive-/
 
-<h1>OBJETIVOS FUTUROS</h1>
+<h1>OBJETIVOS FUTUROS👑</h1>
 
-Organizar de mejor manera mi tiempo y mis tareas para trabajar más rápido
-Investigar sobre la mejor manera de manejar mi codigo
-Proposito es ser mas ordenada en mi codigo 
+
+ORGANIZAR | INVESTIGAR | PROPOSITO
+--------- | --------   | ---------- 
+Organizar de mejor manera mi tiempo y mis tareas para trabajar más rápido | Investigar sobre la mejor manera de manejar mi codigo | Proposito es ser mas ordenada en mi codigopracticar con html 
+
