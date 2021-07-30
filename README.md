@@ -5,11 +5,11 @@ https://amy1909.github.io/Glosario-Responsive-/
 PORTAFOLIO 
 III Periodo 2021
 <H1>Anteportada </H1>
-*Amy Lourdes Ortega De León 
-*IV bachillerato en Ciencias Letras Con Orientacion En Diseño Gráfico 
-*Colegio Santa Catalina Laboure 
-*Diseño Computarizado 
-*Jossue Emmanuel Fuentes
+* Amy Lourdes Ortega De León 
+* IV bachillerato en Ciencias Letras Con Orientacion En Diseño Gráfico 
+* Colegio Santa Catalina Laboure 
+* Diseño Computarizado 
+* Jossue Emmanuel Fuentes
 
 OBJETIVOS 
 Reconocer de mejor manera cada etiqueta de Html 
